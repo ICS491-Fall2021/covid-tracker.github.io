@@ -4,6 +4,7 @@
 
 * [Overview](#overview)
 * [Sign-in/Register](#sign-in--register)
+* [Profile Overview](#profile-overview)
 * [List COVID Status](#list-covid-status)
 * [Add COVID Status](#add-covid-status)
 * [Team members](#team-members)
@@ -17,6 +18,13 @@ ICS 491 project
 
 To unlock full functionality of the app, the user must sign-in to the page with their credentials.
 If they do not have an account, they will have the ability to register for one.
+
+(Insert screenshot here)
+
+## Profile Overview
+
+This page serves as the main dashboard for a user when they sign-in.
+From here, they will have the ability to list/add statuses.
 
 (Insert screenshot here)
 
