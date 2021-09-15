@@ -26,7 +26,7 @@ If they do not have an account, they will have the ability to register for one.
 This page serves as the main dashboard for a user when they sign-in.
 From here, they will have the ability to list/add statuses.
 
-(Insert screenshot here)
+ <img src="../images/Profile_Overview.png"/>
 
 ## List COVID Status
 
