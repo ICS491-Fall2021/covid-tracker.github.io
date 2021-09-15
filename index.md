@@ -18,26 +18,26 @@ ICS 491 project
 To unlock full functionality of the app, the user must sign-in to the page with their credentials.
 If they do not have an account, they will have the ability to register for one.
 
-<img src="/images/Register.png"/>
+<img src="./images/Register.png"/>
 
 ## Profile Overview
 
 This page serves as the main dashboard for a user when they sign-in.
 From here, they will have the ability to list/add statuses.
 
-<img src="/images/Profile_Overview.png"/>
+<img src="./images/Profile_Overview.png"/>
 
 ## List COVID Status
 
 With this COVID Tracker application, the user has the option to list their previous COVID Statuses.
 
-<img src="/images/List_Status.png"/>
+<img src="./images/List_Status.png"/>
 
 ## Add COVID Status
 
 With this COVID Tracker application, the user has the option to add their COVID Status for the day.
 
-<img src="/images/Add_Status.png"/>
+<img src="./images/Add_Status.png"/>
 
 
 ## Team Members
