@@ -3,15 +3,22 @@
 ## Table of contents
 
 * [Overview](#overview)
+* [Team Members](#team-members)
 * [Sign-in/Register](#sign-in--register)
 * [Profile Overview](#profile-overview)
 * [List COVID Status](#list-covid-status)
 * [Add COVID Status](#add-covid-status)
-* [Team Members](#team-members)
 
 ## Overview
 
 ICS 491 project
+
+## Team Members
+
+* [Abdullah Quadri](https://github.com/mujtaba-a-quadri)
+* [Alyssia Chen](https://github.com/alyssia-chen)
+* [Jolie Ching](https://github.com/jolieching)
+* [Dylan Decker](https://github.com/dylandecker)
 
 ## Sign-In / Register
 
@@ -38,11 +45,3 @@ With this COVID Tracker application, the user has the option to list their previ
 With this COVID Tracker application, the user has the option to add their COVID Status for the day.
 
 <img src="./images/Add_Status.png"/>
-
-
-## Team Members
-
-* [Abdullah Quadri](https://github.com/mujtaba-a-quadri)
-* [Alyssia Chen](https://github.com/alyssia-chen)
-* [Jolie Ching](https://github.com/jolieching)
-* [Dylan Decker](https://github.com/dylandecker)
