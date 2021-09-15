@@ -7,43 +7,42 @@
 * [Profile Overview](#profile-overview)
 * [List COVID Status](#list-covid-status)
 * [Add COVID Status](#add-covid-status)
-* [Team members](#team-members)
+* [Team Members](#team-members)
 
 ## Overview
 
 ICS 491 project
-
 
 ## Sign-In / Register
 
 To unlock full functionality of the app, the user must sign-in to the page with their credentials.
 If they do not have an account, they will have the ability to register for one.
 
-(Insert screenshot here)
+<img src="/images/Register.png"/>
 
 ## Profile Overview
 
 This page serves as the main dashboard for a user when they sign-in.
 From here, they will have the ability to list/add statuses.
 
- <img src="../images/Profile_Overview.png"/>
+<img src="/images/Profile_Overview.png"/>
 
 ## List COVID Status
 
 With this COVID Tracker application, the user has the option to list their previous COVID Statuses.
 
-(Insert screenshot here)
+<img src="/images/List_Status.png"/>
 
 ## Add COVID Status
 
 With this COVID Tracker application, the user has the option to add their COVID Status for the day.
 
-(Insert screenshot here)
+<img src="/images/Add_Status.png"/>
 
 
-## Team members
+## Team Members
 
-* Abdullah Quadri
-* Alyssia Chen
-* Jolie Ching
-* Dylan Decker
+* [Abdullah Quadri](https://github.com/mujtaba-a-quadri)
+* [Alyssia Chen](https://github.com/alyssia-chen)
+* [Jolie Ching](https://github.com/jolieching)
+* [Dylan Decker](https://github.com/dylandecker)
