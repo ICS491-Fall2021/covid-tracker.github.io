@@ -11,11 +11,11 @@
 
 ## Overview
 
-ICS 491 project
+Introductory project for ICS 491. An implementation of a COVID symptom and vaccination status tracking app. The current build of the app is available at (https://covid-tracker.meteorapp.com/)
 
 ## Team Members
 
-* [Abdullah Quadri](https://github.com/mujtaba-a-quadri)
+* [Mujtaba Quadri](https://github.com/mujtaba-a-quadri)
 * [Alyssia Chen](https://github.com/alyssia-chen)
 * [Jolie Ching](https://github.com/jolieching)
 * [Dylan Decker](https://github.com/dylandecker)
