@@ -11,7 +11,7 @@
 
 ## Overview
 
-Introductory project for ICS 491. An implementation of a COVID symptom and vaccination status tracking app. The current build of the app is available at [https://covid-tracker.meteorapp.com/](https://covid-tracker.meteorapp.com/)
+Introductory project for ICS 491 to help us warm up our tech stack in preparation for two upcoming hackathons. This project is an implementation of a COVID symptom and vaccination status tracking app. The current build of the app is available at [https://covid-tracker.meteorapp.com/](https://covid-tracker.meteorapp.com/)
 
 ## Team Members
 
@@ -23,7 +23,7 @@ Introductory project for ICS 491. An implementation of a COVID symptom and vacci
 ## Landing
 
 This page serves as the main landing for the website.
-From here, the user can either sign in or register.
+From here, the user can either sign in or register. At the moment, the "sign-in" and "register" buttons are not responsive yet, but the "login" button in the top right is functional.
 
 <img src="./images/Landing.jpg"/>
 
@@ -36,12 +36,12 @@ If they do not have an account, they will have the ability to register for one.
 
 ## List COVID Status
 
-With this COVID Tracker application, the user has the option to list their previous COVID Statuses.
+With this COVID Tracker application, the user has the option to list their previous COVID Statuses. Additionally, the user can edit all inputted statuses, but we may limit this functionality in the future to only the current day. 
 
 <img src="./images/List_Status.jpg"/>
 
 ## Add COVID Status
 
-With this COVID Tracker application, the user has the option to add their COVID Status for the day.
+With this COVID Tracker application, the user has the option to add their COVID Status for the day using the form. The user only needs to indicate if their status is "clear" or "not clear" and then the application will automatically record the date and time on submission of the form.
 
 <img src="./images/Add_Status.jpg"/>
