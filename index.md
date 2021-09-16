@@ -11,7 +11,7 @@
 
 ## Overview
 
-Introductory project for ICS 491. An implementation of a COVID symptom and vaccination status tracking app. The current build of the app is available at (https://covid-tracker.meteorapp.com/)
+Introductory project for ICS 491. An implementation of a COVID symptom and vaccination status tracking app. The current build of the app is available at [https://covid-tracker.meteorapp.com/](https://covid-tracker.meteorapp.com/)
 
 ## Team Members
 
