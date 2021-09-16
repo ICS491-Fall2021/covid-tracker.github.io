@@ -4,8 +4,8 @@
 
 * [Overview](#overview)
 * [Team Members](#team-members)
+* [Landing](#landing)
 * [Sign-in/Register](#sign-in--register)
-* [Profile Overview](#profile-overview)
 * [List COVID Status](#list-covid-status)
 * [Add COVID Status](#add-covid-status)
 
