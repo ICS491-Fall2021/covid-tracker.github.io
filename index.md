@@ -47,7 +47,7 @@ With this COVID Tracker application, the user has the option to add their COVID 
 
 ## Add Vaccine Status
 
-Here, the user can input information about their vaccination record, including patient number, vaccine type and manufacturer lot number, date administered, & healthcare professional or clinic Site per dose. 
+Here, the user can input information about their vaccination record, including patient number, vaccine type and manufacturer lot number, date administered, & healthcare professional or clinic site per dose. 
 
 <img src="./images/Add_Vaccine.png"/>
 
@@ -55,7 +55,6 @@ Here, the user can input information about their vaccination record, including p
 
 With this COVID Tracker application, the user has the option to list their previous COVID Statuses. Additionally, the user can edit all inputted statuses, but we may limit this functionality in the future to only the current day. 
 
-IMAGE BELOW NEEDS TO BE REPLACED
 <img src="./images/List_Status.jpg"/>
 
 Additionally, the user has the ability to add an image of their vaccine card:
