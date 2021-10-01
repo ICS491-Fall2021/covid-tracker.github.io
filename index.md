@@ -40,6 +40,16 @@ With this COVID Tracker application, the user has the option to list their previ
 
 <img src="./images/List_Status.jpg"/>
 
+Additionally, the user has the ability to add an image of their vaccine card:
+
+<img src="./images/List_Status_V2.png"/>
+
+They will be prompted with the following window when they click "choose a file":
+
+<img src="./images/Upload_Image.png"/>
+
+The user has the option to upload images from their computer, a URL, their Google Drive, and much more - how convenient!!
+
 ## Add COVID Status
 
 With this COVID Tracker application, the user has the option to add their COVID Status for the day using the form. The user only needs to indicate if their status is "clear" or "not clear" and then the application will automatically record the date and time on submission of the form.
