@@ -34,10 +34,28 @@ If they do not have an account, they will have the ability to register for one.
 
 <img src="./images/Login.jpg"/>
 
+## Profile Page
+A dashboard of sorts, the profile page provides the user convenient ways to add their status and list previous statuses. More personalization may be implemented in the future (e.g. name, date, number of times the user has checked in).
+
+<img src="./images/Profile.png"/>
+
+## Add COVID Status
+
+With this COVID Tracker application, the user has the option to add their COVID Status for the day using the form. The user only needs to indicate if their status is "clear" or "not clear" and then the application will automatically record the date and time on submission of the form.
+
+<img src="./images/Add_Status.png"/>
+
+## Add Vaccine Status
+
+Here, the user can input information about their vaccination record, including patient number, vaccine type and manufacturer lot number, date administered, & healthcare professional or clinic Site per dose. 
+
+<img src="./images/Add_Vaccine.png"/>
+
 ## List COVID Status
 
 With this COVID Tracker application, the user has the option to list their previous COVID Statuses. Additionally, the user can edit all inputted statuses, but we may limit this functionality in the future to only the current day. 
 
+IMAGE BELOW NEEDS TO BE REPLACED
 <img src="./images/List_Status.jpg"/>
 
 Additionally, the user has the ability to add an image of their vaccine card:
@@ -50,8 +68,3 @@ They will be prompted with the following window when they click "choose a file":
 
 The user has the option to upload images from their computer, a URL, their Google Drive, and much more - how convenient!!
 
-## Add COVID Status
-
-With this COVID Tracker application, the user has the option to add their COVID Status for the day using the form. The user only needs to indicate if their status is "clear" or "not clear" and then the application will automatically record the date and time on submission of the form.
-
-<img src="./images/Add_Status.jpg"/>
