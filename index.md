@@ -34,6 +34,11 @@ If they do not have an account, they will have the ability to register for one.
 
 <img src="./images/a2-login.jpg"/>
 
+## Profile Page
+A dashboard of sorts, the profile page provides the user convenient ways to add their status and list previous statuses. More personalization may be implemented in the future (e.g. name, date, number of times the user has checked in).
+
+<img src="./images/Profile.jpg"/>
+
 ## Add COVID Status
 
 With this COVID Tracker application, the user has the option to add their COVID Status for the day using the form. The user only needs to indicate if their status is "clear" or "not clear" and then the application will automatically record the date and time on submission of the form.
