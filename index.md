@@ -25,7 +25,7 @@ Introductory project for ICS 491 to help us warm up our tech stack in preparatio
 This page serves as the main landing for the website.
 From here, the user can either sign in or register. At the moment, the "sign-in" and "register" buttons are not responsive yet, but the "login" button in the top right is functional.
 
-<img src="./images/a2-login.jpg"/>
+<img src="./images/a2-homepage.jpg"/>
 
 ## Sign-In / Register
 
@@ -49,7 +49,7 @@ With this COVID Tracker application, the user has the option to add their COVID 
 
 Here, the user can input information about their vaccination record, including patient number, vaccine type and manufacturer lot number, date administered, & healthcare professional or clinic site per dose. 
 
-<img src="./images/a2-vacinne.jpg"/>
+<img src="./images/a2-vaccinne.jpg"/>
 
 ## List COVID Status
 
