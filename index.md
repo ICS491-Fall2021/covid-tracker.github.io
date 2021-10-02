@@ -37,7 +37,7 @@ If they do not have an account, they will have the ability to register for one.
 ## Profile Page
 A dashboard of sorts, the profile page provides the user convenient ways to add their status and list previous statuses. More personalization may be implemented in the future (e.g. name, date, number of times the user has checked in).
 
-<img src="./images/Profile.jpg"/>
+<img src="./images/Profile.png"/>
 
 ## Add COVID Status
 
