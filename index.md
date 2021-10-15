@@ -37,7 +37,7 @@ If they do not have an account, they will have the ability to register for one.
 ## Profile Page
 A dashboard of sorts, the profile page provides the user convenient ways to add their status and list previous statuses. More personalization may be implemented in the future (e.g. name, date, number of times the user has checked in).
 
-<img src="./images/Profile.jpg"/>
+<img src="./images/profilepage.jpg"/>
 
 ## Add COVID Status
 
@@ -49,7 +49,7 @@ With this COVID Tracker application, the user has the option to add their COVID 
 
 Here, the user can input information about their vaccination record, including patient number, vaccine type and manufacturer lot number, date administered, & healthcare professional or clinic site per dose. 
 
-<img src="./images/a2-vaccinne.jpg"/>
+<img src="./images/add_info.jpg"/>
 
 ## List COVID Status
 
